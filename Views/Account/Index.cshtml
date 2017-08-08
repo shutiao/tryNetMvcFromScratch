@@ -1,0 +1,15 @@
+@model List<tryNetMvc.Models.Account>
+
+<form asp-controller="Account" asp-action="Index">
+      <input name="accountName" />
+      <input type="submit" />      
+</form>
+
+<div><ul>
+@foreach (var account in Model)
+{<li>@account.Name</li>}
+</ul></div>
+
+
+
+

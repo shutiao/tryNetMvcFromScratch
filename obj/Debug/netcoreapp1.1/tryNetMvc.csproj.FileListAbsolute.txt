@@ -1,0 +1,8 @@
+/Users/hxu/Google Drive/Dev/tryNetMvc/bin/Debug/netcoreapp1.1/tryNetMvc.deps.json
+/Users/hxu/Google Drive/Dev/tryNetMvc/bin/Debug/netcoreapp1.1/tryNetMvc.runtimeconfig.json
+/Users/hxu/Google Drive/Dev/tryNetMvc/bin/Debug/netcoreapp1.1/tryNetMvc.runtimeconfig.dev.json
+/Users/hxu/Google Drive/Dev/tryNetMvc/bin/Debug/netcoreapp1.1/tryNetMvc.dll
+/Users/hxu/Google Drive/Dev/tryNetMvc/bin/Debug/netcoreapp1.1/tryNetMvc.pdb
+/Users/hxu/Google Drive/Dev/tryNetMvc/obj/Debug/netcoreapp1.1/tryNetMvc.AssemblyInfo.cs
+/Users/hxu/Google Drive/Dev/tryNetMvc/obj/Debug/netcoreapp1.1/tryNetMvc.dll
+/Users/hxu/Google Drive/Dev/tryNetMvc/obj/Debug/netcoreapp1.1/tryNetMvc.pdb
